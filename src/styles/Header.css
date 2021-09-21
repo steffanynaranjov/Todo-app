@@ -1,0 +1,24 @@
+.header {
+  background-color: #f2aaaa;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header__img {
+  width: 80px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.header__menu {
+  margin-right: 60px;
+}
+
+.header__menu--profile p {
+  color: #000000;
+  font-weight: bolder;
+  font-size: 18px;
+}
